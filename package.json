@@ -1,0 +1,26 @@
+{
+  "name": "ui-final-project",
+  "version": "1.0.0",
+  "description": "Scare O Scream site",
+  "main": "index.js",
+  "scripts": {
+    "test": "Success",
+    "scss": "node-sass --watch scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValerieLove/UI-Final-Project.git"
+  },
+  "keywords": [
+    "site"
+  ],
+  "author": "Valerie Love",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ValerieLove/UI-Final-Project/issues"
+  },
+  "homepage": "https://github.com/ValerieLove/UI-Final-Project#readme",
+  "dependencies": {
+    "node-sass": "^8.0.0"
+  }
+}

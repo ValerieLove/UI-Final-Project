@@ -1,3 +1,26 @@
+.product-card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+.product-card img{
+  max-width: 200px;
+  max-height: 300px;
+}
+.product-card h4{
+  font-size: 100%;
+}
+
+.scrolling-wrapper {
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+}
+.scrolling-wrapper .product-card{
+  display: inline-block;
+}
 /* change the background color */
 .navbar {
   background-color: #fd7e14; }
